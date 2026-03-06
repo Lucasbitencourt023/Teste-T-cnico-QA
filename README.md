@@ -55,12 +55,6 @@ Exemplos de validações realizadas:
 * Campo renda mensal vazio
 * Token de autenticação inválido
 
-Os casos de teste completos podem ser encontrados no arquivo:
-
-```
-/caderno-de-testes/Caderno de teste.xlsx
-```
-
 ---
 
 ## 🐞 Bugs Identificados
